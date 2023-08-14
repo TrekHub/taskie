@@ -41,9 +41,9 @@ class HomeScreen extends StatelessWidget {
             ),
             BottomNavigationBarItem(
               icon: Icon(
-                Icons.category_outlined,
+                Icons.list_alt_outlined,
               ),
-              label: 'Categories',
+              label: 'Projects',
             ),
             BottomNavigationBarItem(
               icon: Icon(
